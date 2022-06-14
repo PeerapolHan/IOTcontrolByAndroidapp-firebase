@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985157627548",
+    "firebase_url": "https://iotcontrol-42a4f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotcontrol-42a4f",
+    "storage_bucket": "iotcontrol-42a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985157627548:android:61065b1781fe07628ec759",
+        "android_client_info": {
+          "package_name": "com.example.iotcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985157627548-d44qnthgc79epu201cmjrs2hrjgll9fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotcontrol",
+            "certificate_hash": "7d5d93d680c03e589b17f10dc63a2324d8742c3e"
+          }
+        },
+        {
+          "client_id": "985157627548-qtasueqi94uoqck13jqu9llb75m588ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhHxhPTZe6TXOOeBwytA1XXiCKtqGUYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985157627548-qtasueqi94uoqck13jqu9llb75m588ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
